@@ -1,5 +1,7 @@
 ## Product classification - creating a classifier for categories based on other metadata
 
+Note: It is recommended to run this notebook on a m5.xlarge instance to not run into any out of memory errors. 
+
 Some companies want to create their own taxonomy where they have a large dataset from various sources but they don't have a consistent category or label for that data.
 Their dataset will typically have other columns/features which could be used to inform that decision.
 
